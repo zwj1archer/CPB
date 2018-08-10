@@ -1,6 +1,6 @@
 # CPB is an algorithm for robust object detection dynamic scenes proposed by Mr.ZHOU Wen-jun, it is one improved method based on our previous work CP3(proposed by Dr. LIANG Dong).
 
-# The code was realized by Mr.ZHOU Wen-jun(zhouwenjun@ssc.ssi.ist.hokudai.ac.jp) in Human-centric Engineering Laboratory, Graduate School of Information Science and Technology, Hokkaido University, Japan.
+# The code was realized by Mr.ZHOU Wen-jun(zhouwenjun@hce.ist.hokudai.ac.jp) in Human-centric Engineering Laboratory, Graduate School of Information Science and Technology, Hokkaido University, Japan.
 
 # This code includes two parts: 1) Training stage; 2) Detecting stage.
 
@@ -13,4 +13,4 @@
 
 # Thank you.
 
-Aug.10,2018
+# Aug.10,2018
