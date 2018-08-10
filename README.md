@@ -13,6 +13,6 @@ Training stage: Matrix.m is for training & trainncc2.m is the fuction to realize
 
  Thank you.
 
- #Not：the code is as a Encode Zip, you can send a mail to us (zhouwenjun@hce.ist.hokudai.ac.jp) to get the password.
+ #Note：the code is as a Encode Zip, you can send a mail to us (zhouwenjun@hce.ist.hokudai.ac.jp) to get the password.
  
  Aug.10,2018
